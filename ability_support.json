@@ -849,7 +849,7 @@
     "potionEffect|2,600,0,false",
     "potionEffect|15,300,0,false"
   ],
-  "gaia.entity.monster.EntityGaiaBanshee": [
+  "gaia.entity.EntityGaiaBanshee": [
     "hostile",
     "sunburn",
     "fly|false"
