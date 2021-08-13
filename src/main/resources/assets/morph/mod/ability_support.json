@@ -1079,7 +1079,7 @@
   "gaia.entity.monster.EntityGaiaWitch": [
     "hostile",
     "poisonResistance",
-    "fly|false"
+    "fly|true"
   ],
   "gaia.entity.monster.EntityGaiaWitherCow": [
     "hostile",
